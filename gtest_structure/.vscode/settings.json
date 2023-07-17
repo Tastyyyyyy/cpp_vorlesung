@@ -1,0 +1,9 @@
+{
+   "cmake.configureOnOpen": true,
+   "cmake.cmakePath": "C:\\msys64\\mingw64\\bin\\cmake.exe",
+   "cmake.additionalCompilerSearchDirs": [
+      "C:\\msys64\\mingw64\\bin"
+   ],
+   "cmake.generator": "MinGW Makefiles"
+
+}
